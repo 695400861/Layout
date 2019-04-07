@@ -153,7 +153,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 截图：
-[https://raw.githubusercontent.com/695400861/Layout/master/image/X~N)%5BMNJPGQGA%5B%24AG)2OI5T.png]
+[Image text](https://raw.githubusercontent.com/695400861/Layout/master/image/X~N)%5BMNJPGQGA%5B%24AG)2OI5T.png)
 
 
 
@@ -340,7 +340,7 @@ public class Main2Activity extends AppCompatActivity {
     }
 }
 截图：
-[https://raw.githubusercontent.com/695400861/Layout/master/image/BLA51KQWL65HWM4I~%40Q%7D_CX.png]
+[Image text](https://raw.githubusercontent.com/695400861/Layout/master/image/BLA51KQWL65HWM4I~%40Q%7D_CX.png)
 
 （3）使用TableLayout布局实现界面
    activity_main3.xml
@@ -468,5 +468,5 @@ public class Main2Activity extends AppCompatActivity {
 ]]>
 </TableLayout>
 截图：
-[https://raw.githubusercontent.com/695400861/Layout/master/image/SZ%7D3~YGNH4%25%7BX4%60_5D%40U025.png]
+[Image text](https://raw.githubusercontent.com/695400861/Layout/master/image/SZ%7D3~YGNH4%25%7BX4%60_5D%40U025.png)
 
