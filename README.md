@@ -1,8 +1,6 @@
-# experiment2
-
-## 使用LinearLayout布局实现界面
-## 关键代码：
-### activity_main.xml
+实验二：Android布局
+（1）使用LinearLayout布局实现界面
+   activity_main.xml
 <?xml version="1.0" encoding="utf-8"?>
 
 <LinearLayout
@@ -155,11 +153,10 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 
-### ![Image text](https://github.com/1158509577/experiment2/blob/master/iamge/1.png)
 
-## 使用ConstraintLayout布局实现界面
-## 关键代码：
-### activity_main2.xml
+
+（2）使用ConstraintLayout布局实现界面
+   activity_main2.xml：
 <?xml version="1.0" encoding="utf-8"?>
 <android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -320,7 +317,7 @@ public class MainActivity extends AppCompatActivity {
 
 </android.support.constraint.ConstraintLayout>
 
-### Main2Activity.java
+  Main2Activity.java
 public class Main2Activity extends AppCompatActivity {
    private Button b2;
     @Override
@@ -339,11 +336,10 @@ public class Main2Activity extends AppCompatActivity {
         });
     }
 }
-### ![Image text](https://github.com/1158509577/experiment2/blob/master/iamge/2.png)
 
-## 使用TableLayout布局实现界面
-## 关键代码：
-### activity_main3.xml
+
+（3）使用TableLayout布局实现界面
+   activity_main3.xml
 <?xml version="1.0" encoding="utf-8"?>
 <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -468,6 +464,3 @@ public class Main2Activity extends AppCompatActivity {
 ]]>
 </TableLayout>
 
-### ![Image text](https://github.com/1158509577/experiment2/blob/master/iamge/3.png)
-
-###### 2019年3月17日22点蔡百凯
